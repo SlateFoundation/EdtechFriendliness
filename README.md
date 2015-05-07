@@ -1,0 +1,2 @@
+# EdtechFriendliness
+Edtech Friendliness Index
